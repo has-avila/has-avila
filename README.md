@@ -1,5 +1,5 @@
 - Hi there. I’m Henrique 👋
 - 💞️ I'm passionate about data science, robotics, RD&I and new technologies.
-- 🌱 I’m currently learning computational modeling and data science tools, such as statistics fundamentals and deep learning algorithms.
+- 🌱 I’m currently learning computational modeling and data science tools, such as statistics and deep learning algorithms.
 - :zap: I'm starting to share some of my experiences here, I hope it contributes to the community.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/henrique-%C3%A1vila-494887125/)
